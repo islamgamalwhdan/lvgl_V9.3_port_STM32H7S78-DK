@@ -1,4 +1,0 @@
-../Middlewares/LVGL/lvgl/src/osal/lv_os.c:38:6:lv_os_init	0	static
-../Middlewares/LVGL/lvgl/src/osal/lv_os.c:45:6:lv_lock	0	static
-../Middlewares/LVGL/lvgl/src/osal/lv_os.c:52:13:lv_lock_isr	0	static
-../Middlewares/LVGL/lvgl/src/osal/lv_os.c:61:6:lv_unlock	0	static

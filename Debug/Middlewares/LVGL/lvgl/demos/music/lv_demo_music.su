@@ -1,6 +1,0 @@
-../Middlewares/LVGL/lvgl/demos/music/lv_demo_music.c:158:13:auto_step_cb	24	static
-../Middlewares/LVGL/lvgl/demos/music/lv_demo_music.c:117:6:lv_demo_music	16	static
-../Middlewares/LVGL/lvgl/demos/music/lv_demo_music.c:129:14:lv_demo_music_get_title	0	static
-../Middlewares/LVGL/lvgl/demos/music/lv_demo_music.c:135:14:lv_demo_music_get_artist	0	static
-../Middlewares/LVGL/lvgl/demos/music/lv_demo_music.c:141:14:lv_demo_music_get_genre	0	static
-../Middlewares/LVGL/lvgl/demos/music/lv_demo_music.c:147:10:lv_demo_music_get_track_length	0	static

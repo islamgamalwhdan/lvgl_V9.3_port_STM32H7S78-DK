@@ -1,2 +1,0 @@
-../hal_stm_lvgl/tft/tft.c:18:6:tft_init	16	static
-../hal_stm_lvgl/tft/tft.c:29:6:LTDC_IRQHandler	0	static

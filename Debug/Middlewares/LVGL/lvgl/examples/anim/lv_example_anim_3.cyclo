@@ -1,6 +1,0 @@
-../Middlewares/LVGL/lvgl/examples/anim/lv_example_anim_3.c:65:16:anim_path_bezier3_cb	1
-../Middlewares/LVGL/lvgl/examples/anim/lv_example_anim_3.c:86:13:anim_x_cb	1
-../Middlewares/LVGL/lvgl/examples/anim/lv_example_anim_3.c:76:13:refer_chart_cubic_bezier	2
-../Middlewares/LVGL/lvgl/examples/anim/lv_example_anim_3.c:99:13:slider_event_cb	2
-../Middlewares/LVGL/lvgl/examples/anim/lv_example_anim_3.c:91:13:run_button_event_handler	2
-../Middlewares/LVGL/lvgl/examples/anim/lv_example_anim_3.c:37:6:lv_example_anim_3	1

@@ -1,2 +1,0 @@
-../Middlewares/LVGL/lvgl/src/draw/dma2d/lv_draw_dma2d_fill.c:37:6:lv_draw_dma2d_opaque_fill	136	static
-../Middlewares/LVGL/lvgl/src/draw/dma2d/lv_draw_dma2d_fill.c:70:6:lv_draw_dma2d_fill	144	static

@@ -1,9 +1,0 @@
-../Middlewares/LVGL/lvgl/src/core/lv_obj_draw.c:42:6:lv_obj_init_draw_rect_dsc	64	static
-../Middlewares/LVGL/lvgl/src/core/lv_obj_draw.c:147:6:lv_obj_init_draw_label_dsc	24	static
-../Middlewares/LVGL/lvgl/src/core/lv_obj_draw.c:176:6:lv_obj_init_draw_image_dsc	32	static
-../Middlewares/LVGL/lvgl/src/core/lv_obj_draw.c:202:6:lv_obj_init_draw_line_dsc	24	static
-../Middlewares/LVGL/lvgl/src/core/lv_obj_draw.c:232:6:lv_obj_init_draw_arc_dsc	24	static
-../Middlewares/LVGL/lvgl/src/core/lv_obj_draw.c:255:9:lv_obj_calculate_ext_draw_size	32	static
-../Middlewares/LVGL/lvgl/src/core/lv_obj_draw.c:289:6:lv_obj_refresh_ext_draw_size	24	static
-../Middlewares/LVGL/lvgl/src/core/lv_obj_draw.c:311:9:lv_obj_get_ext_draw_size	0	static
-../Middlewares/LVGL/lvgl/src/core/lv_obj_draw.c:317:17:lv_obj_get_layer_type	0	static
