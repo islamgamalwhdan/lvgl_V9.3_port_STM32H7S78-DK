@@ -6,8 +6,6 @@ It uses LTDC + DMA2D (Chrom-ART GPU) for smooth rendering and double buffering i
 
 🧠 Specification
 
-CPU and Memory
-
 MCU	:STM32H7S7L8H6H (Arm® Cortex-M7 @ 600 MHz)
 
 Internal SRAM	:~620 KB
