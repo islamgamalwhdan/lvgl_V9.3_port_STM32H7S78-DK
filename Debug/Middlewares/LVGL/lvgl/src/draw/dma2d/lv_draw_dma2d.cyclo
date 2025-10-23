@@ -1,0 +1,10 @@
+../Middlewares/LVGL/lvgl/src/draw/dma2d/lv_draw_dma2d.c:425:16:delete_cb	1
+../Middlewares/LVGL/lvgl/src/draw/dma2d/lv_draw_dma2d.c:280:16:evaluate_cb	20
+../Middlewares/LVGL/lvgl/src/draw/dma2d/lv_draw_dma2d.c:61:6:lv_draw_dma2d_init	1
+../Middlewares/LVGL/lvgl/src/draw/dma2d/lv_draw_dma2d.c:94:6:lv_draw_dma2d_deinit	1
+../Middlewares/LVGL/lvgl/src/draw/dma2d/lv_draw_dma2d.c:126:27:lv_draw_dma2d_cf_to_dma2d_output_cf	2
+../Middlewares/LVGL/lvgl/src/draw/dma2d/lv_draw_dma2d.c:141:10:lv_draw_dma2d_color_to_dma2d_ocolr	3
+../Middlewares/LVGL/lvgl/src/draw/dma2d/lv_draw_dma2d.c:154:6:lv_draw_dma2d_configure_and_start_transfer	1
+../Middlewares/LVGL/lvgl/src/draw/dma2d/lv_draw_dma2d.c:205:6:lv_draw_dma2d_invalidate_cache	7
+../Middlewares/LVGL/lvgl/src/draw/dma2d/lv_draw_dma2d.c:332:16:dispatch_cb	11
+../Middlewares/LVGL/lvgl/src/draw/dma2d/lv_draw_dma2d.c:240:6:lv_draw_dma2d_clean_cache	7

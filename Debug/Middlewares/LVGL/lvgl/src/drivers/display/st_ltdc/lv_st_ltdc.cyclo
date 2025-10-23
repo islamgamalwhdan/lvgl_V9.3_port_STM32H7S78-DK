@@ -1,0 +1,6 @@
+../Middlewares/LVGL/lvgl/src/drivers/display/st_ltdc/lv_st_ltdc.c:221:13:reload_event_callback	3
+../Middlewares/LVGL/lvgl/src/drivers/display/st_ltdc/lv_st_ltdc.c:102:23:create	9
+../Middlewares/LVGL/lvgl/src/drivers/display/st_ltdc/lv_st_ltdc.c:195:13:flush_wait_cb	3
+../Middlewares/LVGL/lvgl/src/drivers/display/st_ltdc/lv_st_ltdc.c:138:13:flush_cb	6
+../Middlewares/LVGL/lvgl/src/drivers/display/st_ltdc/lv_st_ltdc.c:87:16:lv_st_ltdc_create_direct	1
+../Middlewares/LVGL/lvgl/src/drivers/display/st_ltdc/lv_st_ltdc.c:92:16:lv_st_ltdc_create_partial	1

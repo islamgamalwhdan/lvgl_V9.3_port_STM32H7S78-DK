@@ -1,0 +1,2 @@
+Middlewares/LVGL/lvgl/tests/src/test_cases/widgets/test_scale.o: \
+ ../Middlewares/LVGL/lvgl/tests/src/test_cases/widgets/test_scale.c

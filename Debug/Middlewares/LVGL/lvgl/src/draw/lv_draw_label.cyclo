@@ -1,0 +1,6 @@
+../Middlewares/LVGL/lvgl/src/draw/lv_draw_label.c:65:6:lv_draw_label_dsc_init	1
+../Middlewares/LVGL/lvgl/src/draw/lv_draw_label.c:79:23:lv_draw_task_get_label_dsc	2
+../Middlewares/LVGL/lvgl/src/draw/lv_draw_label.c:84:6:lv_draw_glyph_dsc_init	1
+../Middlewares/LVGL/lvgl/src/draw/lv_draw_label.c:89:28:lv_draw_label	7
+../Middlewares/LVGL/lvgl/src/draw/lv_draw_label.c:117:28:lv_draw_character	10
+../Middlewares/LVGL/lvgl/src/draw/lv_draw_label.c:157:6:lv_draw_label_iterate_characters	81

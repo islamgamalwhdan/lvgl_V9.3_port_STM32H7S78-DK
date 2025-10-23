@@ -1,0 +1,9 @@
+../Middlewares/LVGL/lvgl/demos/ebike/translations/lv_i18n.c:46:16:en_plural_fn	0	static
+../Middlewares/LVGL/lvgl/demos/ebike/translations/lv_i18n.c:90:16:ar_plural_fn	0	static
+../Middlewares/LVGL/lvgl/demos/ebike/translations/lv_i18n.c:135:16:zh_plural_fn	0	static
+../Middlewares/LVGL/lvgl/demos/ebike/translations/lv_i18n.c:164:6:__lv_i18n_reset	0	static
+../Middlewares/LVGL/lvgl/demos/ebike/translations/lv_i18n.c:174:5:lv_i18n_init	4	static
+../Middlewares/LVGL/lvgl/demos/ebike/translations/lv_i18n.c:188:5:lv_i18n_set_locale	24	static
+../Middlewares/LVGL/lvgl/demos/ebike/translations/lv_i18n.c:225:14:lv_i18n_get_text	24	static
+../Middlewares/LVGL/lvgl/demos/ebike/translations/lv_i18n.c:257:14:lv_i18n_get_text_plural	32	static
+../Middlewares/LVGL/lvgl/demos/ebike/translations/lv_i18n.c:296:14:lv_i18n_get_current_locale	0	static
